@@ -1,8 +1,8 @@
-# obsidian-project-v0.1
+# obsidian-project-v0.2
 
 setup :
 
- cd obsidian-project-v0.1
+ cd obsidian-project-v0.2
  
  sudo python ./setup.py
  
