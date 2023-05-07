@@ -9,5 +9,5 @@ setup :
  
 to start : 
 
- type on command line (obsidian)
+ type on command line (obsid)
  
