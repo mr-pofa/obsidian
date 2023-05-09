@@ -1,6 +1,6 @@
 # obsidian-project-v0.2
 
-##Installation & setup :
+## Installation & setup :
 ```
 git clone https://github.com/mr-pofa/obsidian-project-v0.2.git
 
