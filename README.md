@@ -8,7 +8,7 @@ cd obsidian-project-v0.2
  
  sudo python ./setup.py
  ```
- to start : 
+## to start : 
  ```
 
  type on command line (obsid)
