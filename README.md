@@ -1,4 +1,4 @@
-# obsidian-project-v0.2
+# obsidian-project-v0.2 🏆
 
 ## Installation & setup :
 ```
